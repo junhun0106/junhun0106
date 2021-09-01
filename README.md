@@ -11,16 +11,20 @@
   * [Carter 라이브러리 사용](https://github.com/junhun0106/CSharp/tree/main/CarterModule)
     * DTO를 공용 프로젝트로 분리하여 클라이언트와 서버에서 Url 및 Method 관리를 용이하게 해보자
   * [gRPC](https://github.com/junhun0106/CSharp/tree/main/gRPCTestProjects)
-    * gRPC 기초 프로젝트 및 ** FailOver **
-* [TCP](https://github.com/junhun0106/CSharp/tree/main/TCPServer)
+    * gRPC 기초 프로젝트 및 **FailOver**
+* [TCP 서버](https://github.com/junhun0106/CSharp/tree/main/TCPServer)
   * System.IO.Pipelines와 SocketAsyncEventAgrs를 이용하여 간단하 채팅 서버와 채팅 클라이언트를 만들어보자
+  * System.IO.Pipelines를 최적화 해보자
 * 기타
-  * [Banchmark](https://github.com/junhun0106/CSharp/tree/main/ContainerBanchmark)
-    * BanchmarkDotNet 라이브러리를 이용하여 Linq 등에 성능을 확실히 알아보자
+  * [Container Benchmark](https://github.com/junhun0106/CSharp/tree/main/ContainerBanchmark)
+    * BanchmarkDotNet 라이브러리를 이용하여 Container API, Linq에 성능 차이를 알아보자
+  * [Parse](https://github.com/junhun0106/CSharp/tree/main/Parse)
+    * .net version이 낮은 경우의 ReadOnlySpan<char> Parse 버전을 만들어보자 
   * [Span](https://github.com/junhun0106/CSharp/tree/main/Span)
     * Span 객체를 사용하여 string 혹은 string[]를 사용 할 때 성능을 확보해보자
   * [Trie](https://github.com/junhun0106/CSharp/tree/main/Trie)
     * Trie 알고리즘을 이용하여 string 필터에 성능을 확보해보자
+  * [Study](https://github.com/junhun0106/CSharp/tree/main/StudyProject)
 
 ---
 
