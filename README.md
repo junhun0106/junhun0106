@@ -16,6 +16,8 @@
   * System.IO.Pipelines와 SocketAsyncEventAgrs를 이용하여 간단하 채팅 서버와 채팅 클라이언트를 만들어보자
   * System.IO.Pipelines를 최적화 해보자
 * 기타
+  * [Memory Pool](https://github.com/junhun0106/CSharp/tree/main/MemoryPool)
+    * DefaultMemoryPool(ArrayMemoryPool) vs SlabMemoryPool vs PinnedBlockMemoryPool  
   * [Container Benchmark](https://github.com/junhun0106/CSharp/tree/main/ContainerBanchmark)
     * BanchmarkDotNet 라이브러리를 이용하여 Container API, Linq에 성능 차이를 알아보자
   * [Parse](https://github.com/junhun0106/CSharp/tree/main/Parse)
