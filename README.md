@@ -42,6 +42,8 @@
   * DB를 관리 시 유용한 팁 정리
     * Query 최적화
     * DB charset 버그
+ * [MySqlConnector](https://github.com/junhun0106/DB-REDIS/tree/main/Migration)
+  * 여러 Coneector를 사용해보고, 빠르고 사용하기 쉬운 라이브러리를 찾아보자. 
 * [Redis](https://github.com/junhun0106/DB-REDIS/tree/main/Redis)
   * Redis 테스트를 위한 기초 프로젝트
   * Redis를 이용하여 간단한 세션 인증 및 관리
