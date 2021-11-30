@@ -30,7 +30,7 @@
     * [Container Benchmark](https://github.com/junhun0106/CSharp-Benchmark/tree/main/Container)
       * BanchmarkDotNet 라이브러리를 이용하여 Container API, Linq에 성능 차이를 알아보자 
     * [StringBuilder](https://github.com/junhun0106/CSharp-Benchmark/tree/main/StringBuilder)
-     * System.Text.StringBuilder vs ObjectPool(StringBuilderPool) vs ZString vs ValueStringBuilder
+      * System.Text.StringBuilder vs ObjectPool(StringBuilderPool) vs ZString vs ValueStringBuilder
 
 ---
 
