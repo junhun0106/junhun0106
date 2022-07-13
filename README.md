@@ -34,8 +34,9 @@
 
 ---
 
-### [DB & Redis](https://github.com/junhun0106/DB-REDIS)
+### [DB](https://github.com/junhun0106/DB-REDIS)
 
+#### MySql
 * [DB FailOver](https://github.com/junhun0106/DB-REDIS/tree/main/DBFailOver)
   * DB에서 FailOver 시에 재시도 관련 테스트 코드
 * [DB TestProject](https://github.com/junhun0106/DB-REDIS/tree/main/DBTest)
@@ -49,6 +50,10 @@
 * [Redis](https://github.com/junhun0106/DB-REDIS/tree/main/Redis)
   * Redis 테스트를 위한 기초 프로젝트
   * Redis를 이용하여 간단한 세션 인증 및 관리
+
+### Redis(Private)
+* 레디스를 이용한 세션 관리
+* 레디스 마이그레이션 및 API 
 
 ---
 
