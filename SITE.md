@@ -7,4 +7,4 @@
 ### lib
 
 * [DotMarkdown](https://github.com/JosefPihrt/DotMarkdown)
- - auto markdown genterated
+  * auto markdown genterated
