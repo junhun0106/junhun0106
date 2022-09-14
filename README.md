@@ -23,15 +23,15 @@
 
 ### Server(private)
 
-* [ASP.NET CORE](https://github.com/junhun0106/CSharp/tree/main/ASPDOTNETCORE)
+* [ASP.NET CORE]
   * ASP.NET CORE 기초 프로젝트
-  * [웹 서버 LatencyViewer](https://github.com/junhun0106/CSharp/tree/main/LatencyView)
+  * [웹 서버 LatencyViewer]
     * Middleware와 View(Mvc)를 이용하여 Latency를 측정해보자
-  * [Carter 라이브러리 사용](https://github.com/junhun0106/CSharp/tree/main/CarterModule)
+  * [Carter 라이브러리 사용]
     * DTO를 공용 프로젝트로 분리하여 클라이언트와 서버에서 Url 및 Method 관리를 용이하게 해보자
-  * [gRPC](https://github.com/junhun0106/CSharp/tree/main/gRPCTestProjects)
+  * [gRPC]
     * gRPC 기초 프로젝트 및 **FailOver**
-* [TCP 서버](https://github.com/junhun0106/CSharp/tree/main/TCPServer)
+* [TCP 서버]
   * System.IO.Pipelines와 SocketAsyncEventAgrs를 이용하여 간단하 채팅 서버와 채팅 클라이언트를 만들어보자
   * System.IO.Pipelines를 최적화 해보자
 
