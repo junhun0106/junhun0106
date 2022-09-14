@@ -40,6 +40,8 @@
   * System.IO.Pipelines와 SocketAsyncEventAgrs를 이용하여 간단하 채팅 서버와 채팅 클라이언트를 만들어보자
   * System.IO.Pipelines를 최적화 해보자
 
+---
+ 
 ### [DB](https://github.com/junhun0106/DB-REDIS)
 
 #### MySql
@@ -54,6 +56,8 @@
 * [MySqlConnector](https://github.com/junhun0106/DB-REDIS/tree/main/Migration)
   * 여러 Coneector를 사용해보고, 빠르고 사용하기 쉬운 라이브러리를 찾아보자. 
 
+---
+ 
 ### Redis(Private)
 * 레디스를 이용한 세션 관리
 * 레디스 마이그레이션 및 API 
