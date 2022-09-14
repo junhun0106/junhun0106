@@ -1,5 +1,8 @@
 # 프로젝트 소개
 
+* 간혹 업데이트되므로, 링크가 깨질 수 있음.
+* 몇몇 프로젝트들은 PRIVATE으로 변경함.
+
 ---
 
 ### [C#](https://github.com/junhun0106/CSharp)
