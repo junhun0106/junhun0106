@@ -14,14 +14,19 @@
     * Span 객체를 사용하여 string 혹은 string[]를 사용 할 때 성능을 확보해보자
   * [Trie](https://github.com/junhun0106/CSharp/tree/main/Trie)
     * Trie 알고리즘을 이용하여 string 필터에 성능을 확보해보자
-  * [Study](https://github.com/junhun0106/CSharp/tree/main/StudyProject)
+  * PacketEncyption
+    * 패킷(byte[]) 암호화(XOR 등)
+  * DotNetVerify
+    * .NET 6 검증 프로젝트
+    * c# benchmark repo로 이동 필요
    
  ### [C# Benchmark](https://github.com/junhun0106/CSharp-Benchmark)
  
 * Container, StringBuilder, Linq 등 각 종 벤치마크 프로젝트 모음
-* [Container Benchmark](https://github.com/junhun0106/CSharp-Benchmark/tree/main/Container)
+  * 프로젝트가 분리 되어 있었으나(관리 소흘), 모두 하나로 합침
+* [Container Benchmark]
   * BanchmarkDotNet 라이브러리를 이용하여 Container API, Linq에 성능 차이를 알아보자 
-* [StringBuilder](https://github.com/junhun0106/CSharp-Benchmark/tree/main/StringBuilder)
+* [StringBuilder]
   * System.Text.StringBuilder vs ObjectPool(StringBuilderPool) vs ZString vs ValueStringBuilder
  
 ---
