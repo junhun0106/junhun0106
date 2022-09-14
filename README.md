@@ -69,6 +69,18 @@
 
 ---
 
+### Utilities(Private)
+* 업무에 필요한 라이브러리 모음
+* EmptyCollection
+  * Array.Empty처럼 List.Empty, Dictionary.Empty를 사용 할 수 있도록 해보자
+* ValueStringBuilder
+  * Stack에서만 사용하는 StringBuilder.
+---
+
 ### [C++](https://github.com/junhun0106/Cplusplus)
 
 * [대학교 졸업작품 및 과제](https://github.com/junhun0106/Cplusplus/tree/main/University) 
+
+### Flutter & Type Script
+
+* 프로젝트만 파놓고 언제 공부할거니?
