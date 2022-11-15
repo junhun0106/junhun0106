@@ -44,7 +44,9 @@
 * [TCP 서버]
   * System.IO.Pipelines와 SocketAsyncEventAgrs를 이용하여 간단하 채팅 서버와 채팅 클라이언트를 만들어보자
   * System.IO.Pipelines를 최적화 해보자
-
+* [REST 서버]
+  * HTTP 1.1 서버
+  * 내가 직접 관리 할 수 있는 웹 서버를 만들어보자.
 ---
  
 ### [DB](https://github.com/junhun0106/DB-REDIS)
