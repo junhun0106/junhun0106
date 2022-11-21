@@ -21,18 +21,13 @@
   * [PacketEncyption](https://github.com/junhun0106/CSharp/tree/main/PacketEncryption)
     * 패킷(byte[]) 암호화(XOR 등)
    
- ### [C# Benchmark](https://github.com/junhun0106/CSharp-Benchmark)
+### [C# Benchmark](https://github.com/junhun0106/CSharp-Benchmark)
  
-* Container, StringBuilder, Linq 등 각 종 벤치마크 프로젝트 모음
-  * 프로젝트가 분리 되어 있었으나(관리 소흘), 모두 하나로 합침
-* [Container Benchmark]
-  * BanchmarkDotNet 라이브러리를 이용하여 Container API, Linq에 성능 차이를 알아보자 
-* [StringBuilder]
-  * System.Text.StringBuilder vs ObjectPool(StringBuilderPool) vs ZString vs ValueStringBuilder
- 
+* C# 라이브러리에 대한 벤치마크 및 검증 프로젝트 모음
+
 ### [C# Proto](https://github.com/junhun0106/CSharp-Proto) 
  
-* 완성되지 않았거나, 스터디 프로젝트 모음
+* 스터디 프로젝트 모음
 * DotNetVerify
     * .NET 6 검증 프로젝트
 
@@ -83,7 +78,8 @@
 * EmptyCollection
   * Array.Empty처럼 List.Empty, Dictionary.Empty를 사용 할 수 있도록 해보자
 * ValueStringBuilder
-  * Stack에서만 사용하는 StringBuilder.
+  * Stack에서만 사용하는 StringBuilder
+ 
 ---
 
 ### [C++](https://github.com/junhun0106/Cplusplus)
