@@ -9,9 +9,9 @@
 
 ### [C#](https://github.com/junhun0106/CSharp)
   * [Memory Pool](https://github.com/junhun0106/CSharp/tree/main/MemoryPool)
-    * 메모리풀들을 비교하고 Allocated와 성능이 뛰어난 메모리풀이 무엇인지 알아내보자
+    * .NET 메모리풀들을 비교하고 Allocated와 성능이 뛰어난 메모리풀이 무엇인지 알아내보자
     * 매우 작은 byte는 고려하지 않는다.(작은 byte인 경우 'new byte[]'가 더 빠른 경우가 있을 수 있다.)
-    * DefaultMemoryPool(ArrayMemoryPool) vs SlabMemoryPool vs PinnedBlockMemoryPool
+    * DefaultMemoryPool(ArrayMemoryPool) vs SlabMemoryPool vs PinnedBlockMemoryPool vs CustomArrayMemoryPool
   * [Parse](https://github.com/junhun0106/CSharp/tree/main/Parse)
     * .net version이 낮은 경우의 ReadOnlySpan<char> Parse 버전을 만들어보자 
   * [Span](https://github.com/junhun0106/CSharp/tree/main/Span)
@@ -20,9 +20,6 @@
     * Trie 알고리즘을 이용하여 string 필터에 성능을 확보해보자
   * PacketEncyption
     * 패킷(byte[]) 암호화(XOR 등)
-  * DotNetVerify
-    * .NET 6 검증 프로젝트
-    * c# benchmark repo로 이동 필요
    
  ### [C# Benchmark](https://github.com/junhun0106/CSharp-Benchmark)
  
@@ -33,6 +30,12 @@
 * [StringBuilder]
   * System.Text.StringBuilder vs ObjectPool(StringBuilderPool) vs ZString vs ValueStringBuilder
  
+### [C# Proto](https://github.com/junhun0106/CSharp-Proto) 
+ 
+* 완성되지 않았거나, 스터디 프로젝트 모음
+* DotNetVerify
+    * .NET 6 검증 프로젝트
+
 ---
 
 ### Server(private)
