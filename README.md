@@ -1,13 +1,17 @@
 # 프로젝트 소개
 
 * 간혹 업데이트되므로, 링크가 깨질 수 있음.
-* 몇몇 프로젝트들은 PRIVATE으로 변경함.
 
+# Repositories
+
+* 레포지토리 주요 프로젝트 및 라이브러리 소개   
 ---
 
 ### [C#](https://github.com/junhun0106/CSharp)
   * [Memory Pool](https://github.com/junhun0106/CSharp/tree/main/MemoryPool)
-    * DefaultMemoryPool(ArrayMemoryPool) vs SlabMemoryPool vs PinnedBlockMemoryPool  
+    * 메모리풀들을 비교하고 Allocated와 성능이 뛰어난 메모리풀이 무엇인지 알아내보자
+    * 매우 작은 byte는 고려하지 않는다.(작은 byte인 경우 'new byte[]'가 더 빠른 경우가 있을 수 있다.)
+    * DefaultMemoryPool(ArrayMemoryPool) vs SlabMemoryPool vs PinnedBlockMemoryPool
   * [Parse](https://github.com/junhun0106/CSharp/tree/main/Parse)
     * .net version이 낮은 경우의 ReadOnlySpan<char> Parse 버전을 만들어보자 
   * [Span](https://github.com/junhun0106/CSharp/tree/main/Span)
