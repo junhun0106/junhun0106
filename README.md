@@ -18,7 +18,7 @@
     * Span 객체를 사용하여 string 혹은 string[]를 사용 할 때 성능을 확보해보자
   * [Trie](https://github.com/junhun0106/CSharp/tree/main/Trie)
     * Trie 알고리즘을 이용하여 string 필터에 성능을 확보해보자
-  * PacketEncyption
+  * [PacketEncyption](https://github.com/junhun0106/CSharp/tree/main/PacketEncryption)
     * 패킷(byte[]) 암호화(XOR 등)
    
  ### [C# Benchmark](https://github.com/junhun0106/CSharp-Benchmark)
