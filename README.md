@@ -22,8 +22,9 @@
     * 패킷(byte[]) 암호화(XOR 등)
   * EmptyCollection
     * Array.Empty처럼 List.Empty, Dictionary.Empty를 사용 할 수 있도록 해보자
-  * ValueStringBuilder
-    * Stack에서만 사용하는 StringBuilder
+  * [System.Collections.ValueBuilder](https://github.com/junhun0106/CSharp/tree/main/System.Collections.ValueBuilder)
+    * ValueType(ref struct) StringBuilder
+    * ValueType(ref struct) StackBuilder
    
 ### [C# Benchmark](https://github.com/junhun0106/CSharp-Benchmark)
  
