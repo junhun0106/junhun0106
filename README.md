@@ -20,6 +20,10 @@
     * Trie 알고리즘을 이용하여 string 필터에 성능을 확보해보자
   * [PacketEncyption](https://github.com/junhun0106/CSharp/tree/main/PacketEncryption)
     * 패킷(byte[]) 암호화(XOR 등)
+  * EmptyCollection
+    * Array.Empty처럼 List.Empty, Dictionary.Empty를 사용 할 수 있도록 해보자
+  * ValueStringBuilder
+    * Stack에서만 사용하는 StringBuilder
    
 ### [C# Benchmark](https://github.com/junhun0106/CSharp-Benchmark)
  
@@ -71,15 +75,6 @@
 * 레디스를 이용한 세션 관리
 * 레디스 마이그레이션 및 API 
 
----
-
-### Utilities(Private)
-* 업무에 필요한 라이브러리 모음
-* EmptyCollection
-  * Array.Empty처럼 List.Empty, Dictionary.Empty를 사용 할 수 있도록 해보자
-* ValueStringBuilder
-  * Stack에서만 사용하는 StringBuilder
- 
 ---
 
 ### [C++](https://github.com/junhun0106/Cplusplus)
